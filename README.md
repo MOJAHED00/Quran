@@ -1,5 +1,5 @@
 
-<!DOCTYPE html>
+البحث عن آية
 <html lang="ar" dir="rtl">
 <head>
     <meta charset="UTF-8">
